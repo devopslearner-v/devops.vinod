@@ -1,0 +1,7 @@
+#ignore unwanted files
+*.java
+*.xml
+*.http
+*.txt
+*.exc
+
